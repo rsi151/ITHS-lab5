@@ -8,3 +8,13 @@ C:\Users\Rattanachai Sriwilai\source\repos\Skolprojekt\ITHS-lab5\ITHS-lab5\bin\D
 C:\Users\Rattanachai Sriwilai\source\repos\Skolprojekt\ITHS-lab5\ITHS-lab5\obj\Debug\ITHS-lab5.exe
 C:\Users\Rattanachai Sriwilai\source\repos\Skolprojekt\ITHS-lab5\ITHS-lab5\obj\Debug\ITHS-lab5.pdb
 C:\Users\Rattanachai Sriwilai\source\repos\Skolprojekt\ITHS-lab5\ITHS-lab5\obj\Debug\ITHS_lab5.Scraper.resources
+C:\Users\duk15\source\repos\Skolprojekt\ITHS-lab5\ITHS-lab5\bin\Debug\ITHS-lab5.exe.config
+C:\Users\duk15\source\repos\Skolprojekt\ITHS-lab5\ITHS-lab5\bin\Debug\ITHS-lab5.exe
+C:\Users\duk15\source\repos\Skolprojekt\ITHS-lab5\ITHS-lab5\bin\Debug\ITHS-lab5.pdb
+C:\Users\duk15\source\repos\Skolprojekt\ITHS-lab5\ITHS-lab5\obj\Debug\ITHS-lab5.csprojAssemblyReference.cache
+C:\Users\duk15\source\repos\Skolprojekt\ITHS-lab5\ITHS-lab5\obj\Debug\ITHS_lab5.Scraper.resources
+C:\Users\duk15\source\repos\Skolprojekt\ITHS-lab5\ITHS-lab5\obj\Debug\ITHS_lab5.Properties.Resources.resources
+C:\Users\duk15\source\repos\Skolprojekt\ITHS-lab5\ITHS-lab5\obj\Debug\ITHS-lab5.csproj.GenerateResource.cache
+C:\Users\duk15\source\repos\Skolprojekt\ITHS-lab5\ITHS-lab5\obj\Debug\ITHS-lab5.csproj.CoreCompileInputs.cache
+C:\Users\duk15\source\repos\Skolprojekt\ITHS-lab5\ITHS-lab5\obj\Debug\ITHS-lab5.exe
+C:\Users\duk15\source\repos\Skolprojekt\ITHS-lab5\ITHS-lab5\obj\Debug\ITHS-lab5.pdb
